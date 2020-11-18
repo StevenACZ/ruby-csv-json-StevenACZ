@@ -23,7 +23,7 @@ module MoviesCsvParser
   end
 
   def hash_to_csv(filename, csv_export)
-    CSV.open(filename, "w", :headers => csv_export.first.keys, :write_headers => true) do |csv|
+    CSV.open(filename, "w", headers: csv_export.first.keys, write_headers: true) do |csv|
       csv_export.each { |row| csv << row.values }
     end
   end
@@ -32,7 +32,7 @@ module MoviesCsvParser
     csv_export = []
     movies.each do |row|
       row["genre"] = row["genre"].join(", ")
-      row["gross"] = "$#{add_one_zero(row["gross"])}M"
+      row["gross"] = "$#{add_one_zero(row['gross'])}M"
       csv_export.push(row)
     end
     csv_export
@@ -48,7 +48,7 @@ module MoviesCsvParser
 
   def string_to_number(str_num)
     num = ""
-    str_num.each_char { |char| char.match(/^[0-9|.]*$/) && num += char } 
+    str_num.each_char { |char| char.match(/^[0-9|.]*$/) && num += char }
     num.to_f
   end
 end
