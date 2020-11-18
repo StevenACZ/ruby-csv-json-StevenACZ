@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Parse CSV",
+      "setup": "",
+      "run": "ruby 27parse_csv/parse_csv_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Parse JSON",
+      "setup": "",
+      "run": "ruby 28parse_json/parse_json_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Movies",
+      "setup": "",
+      "run": "ruby 29movies/movies_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 8
+    }
+  ]
+}
