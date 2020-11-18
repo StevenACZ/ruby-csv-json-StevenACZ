@@ -1,0 +1,836 @@
+[
+    {
+        "title": "The Shawshank Redemption (1994)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 28.34
+    },
+    {
+        "title": "The Godfather (1972)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 134.97
+    },
+    {
+        "title": "The Dark Knight (2008)",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "gross": 534.86
+    },
+    {
+        "title": "The Godfather: Part II (1974)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 57.3
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King (2003)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "gross": 377.85
+    },
+    {
+        "title": "Pulp Fiction (1994)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 107.93
+    },
+    {
+        "title": "Schindler's List (1993)",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "gross": 96.9
+    },
+    {
+        "title": "12 Angry Men (1957)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 4.36
+    },
+    {
+        "title": "Inception (2010)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "gross": 292.58
+    },
+    {
+        "title": "Fight Club (1999)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 37.03
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "gross": 315.54
+    },
+    {
+        "title": "Forrest Gump (1994)",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "gross": 330.25
+    },
+    {
+        "title": "The Good, the Bad and the Ugly (1966)",
+        "genre": [
+            "Western"
+        ],
+        "gross": 6.1
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers (2002)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "gross": 342.55
+    },
+    {
+        "title": "The Matrix (1999)",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "gross": 171.48
+    },
+    {
+        "title": "Goodfellas (1990)",
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "gross": 46.84
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "gross": 290.48
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest (1975)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 112
+    },
+    {
+        "title": "Parasite (2019)",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 53.37
+    },
+    {
+        "title": "Interstellar (2014)",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "gross": 188.02
+    },
+    {
+        "title": "City of God (2002)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 7.56
+    },
+    {
+        "title": "Spirited Away (2001)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "gross": 10.06
+    },
+    {
+        "title": "Saving Private Ryan (1998)",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "gross": 216.54
+    },
+    {
+        "title": "The Green Mile (1999)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "gross": 136.8
+    },
+    {
+        "title": "Life Is Beautiful (1997)",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "gross": 57.6
+    },
+    {
+        "title": "Se7en (1995)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "gross": 100.13
+    },
+    {
+        "title": "The Silence of the Lambs (1991)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 130.74
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope (1977)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "gross": 322.74
+    },
+    {
+        "title": "Joker (2019)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 335.45
+    },
+    {
+        "title": "Whiplash (2014)",
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "gross": 13.09
+    },
+    {
+        "title": "The Intouchables (2011)",
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "gross": 13.18
+    },
+    {
+        "title": "The Prestige (2006)",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "gross": 53.09
+    },
+    {
+        "title": "The Departed (2006)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 132.38
+    },
+    {
+        "title": "The Pianist (2002)",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "gross": 32.57
+    },
+    {
+        "title": "Gladiator (2000)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "gross": 187.71
+    },
+    {
+        "title": "American History X (1998)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 6.72
+    },
+    {
+        "title": "The Usual Suspects (1995)",
+        "genre": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "gross": 23.34
+    },
+    {
+        "title": "Léon: The Professional (1994)",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "gross": 19.5
+    },
+    {
+        "title": "The Lion King (1994)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "gross": 422.78
+    },
+    {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "gross": 204.84
+    },
+    {
+        "title": "Cinema Paradiso (1988)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 11.99
+    },
+    {
+        "title": "Back to the Future (1985)",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "gross": 210.61
+    },
+    {
+        "title": "Once Upon a Time in the West (1968)",
+        "genre": [
+            "Western"
+        ],
+        "gross": 5.32
+    },
+    {
+        "title": "Psycho (1960)",
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "gross": 32
+    },
+    {
+        "title": "Your Name. (2016)",
+        "genre": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ],
+        "gross": 5.02
+    },
+    {
+        "title": "Dangal (2016)",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "gross": 12.39
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "gross": 190.24
+    },
+    {
+        "title": "Avengers: Endgame (2019)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "gross": 858.37
+    },
+    {
+        "title": "Avengers: Infinity War (2018)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "gross": 678.82
+    },
+    {
+        "title": "Coco (I) (2017)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "gross": 209.73
+    },
+    {
+        "title": "Django Unchained (2012)",
+        "genre": [
+            "Drama",
+            "Western"
+        ],
+        "gross": 162.81
+    },
+    {
+        "title": "The Dark Knight Rises (2012)",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "gross": 448.14
+    },
+    {
+        "title": "3 Idiots (2009)",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "gross": 6.53
+    },
+    {
+        "title": "WALL·E (2008)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "gross": 223.81
+    },
+    {
+        "title": "The Lives of Others (2006)",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "gross": 11.29
+    },
+    {
+        "title": "Memento (2000)",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "gross": 25.54
+    },
+    {
+        "title": "Princess Mononoke (1997)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "gross": 2.38
+    },
+    {
+        "title": "Once Upon a Time in America (1984)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 5.32
+    },
+    {
+        "title": "Raiders of the Lost Ark (1981)",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "gross": 248.16
+    },
+    {
+        "title": "The Shining (1980)",
+        "genre": [
+            "Drama",
+            "Horror"
+        ],
+        "gross": 44.02
+    },
+    {
+        "title": "Apocalypse Now (1979)",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "gross": 83.47
+    },
+    {
+        "title": "Alien (1979)",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "gross": 78.9
+    },
+    {
+        "title": "Witness for the Prosecution (1957)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "gross": 8.18
+    },
+    {
+        "title": "Rear Window (1954)",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "gross": 36.76
+    },
+    {
+        "title": "1917 (2019)",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "gross": 159.23
+    },
+    {
+        "title": "Uri: The Surgical Strike (2019)",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "gross": 4.19
+    },
+    {
+        "title": "A Separation (2011)",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 7.1
+    },
+    {
+        "title": "Incendies (2010)",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "gross": 6.86
+    },
+    {
+        "title": "Toy Story 3 (2010)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "gross": 415
+    },
+    {
+        "title": "Inglourious Basterds (2009)",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "gross": 120.54
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "gross": 34.4
+    },
+    {
+        "title": "Amélie (2001)",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "gross": 33.23
+    },
+    {
+        "title": "Snatch (2000)",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "gross": 30.33
+    },
+    {
+        "title": "Requiem for a Dream (2000)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 3.64
+    },
+    {
+        "title": "American Beauty (1999)",
+        "genre": [
+            "Drama"
+        ],
+        "gross": 130.1
+    },
+    {
+        "title": "Good Will Hunting (1997)",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "gross": 138.43
+    },
+    {
+        "title": "Toy Story (1995)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "gross": 191.8
+    },
+    {
+        "title": "Braveheart (1995)",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "gross": 75.6
+    },
+    {
+        "title": "Reservoir Dogs (1992)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 2.83
+    },
+    {
+        "title": "Full Metal Jacket (1987)",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "gross": 46.36
+    },
+    {
+        "title": "Aliens (1986)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "gross": 85.16
+    },
+    {
+        "title": "Amadeus (1984)",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "gross": 51.97
+    },
+    {
+        "title": "Scarface (1983)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 45.6
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "gross": 309.13
+    },
+    {
+        "title": "Das Boot (1981)",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "gross": 11.49
+    },
+    {
+        "title": "Taxi Driver (1976)",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "gross": 28.26
+    },
+    {
+        "title": "The Sting (1973)",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "gross": 159.6
+    },
+    {
+        "title": "A Clockwork Orange (1971)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "gross": 6.21
+    },
+    {
+        "title": "2001: A Space Odyssey (1968)",
+        "genre": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "gross": 56.95
+    },
+    {
+        "title": "For a Few Dollars More (1965)",
+        "genre": [
+            "Western"
+        ],
+        "gross": 15
+    },
+    {
+        "title": "Lawrence of Arabia (1962)",
+        "genre": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "gross": 44.82
+    },
+    {
+        "title": "The Apartment (1960)",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "gross": 18.6
+    },
+    {
+        "title": "North by Northwest (1959)",
+        "genre": [
+            "Adventure",
+            "Mystery",
+            "Thriller"
+        ],
+        "gross": 13.28
+    },
+    {
+        "title": "Vertigo (1958)",
+        "genre": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "gross": 3.2
+    },
+    {
+        "title": "Singin' in the Rain (1952)",
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "gross": 8.82
+    },
+    {
+        "title": "Double Indemnity (1944)",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ],
+        "gross": 5.72
+    },
+    {
+        "title": "The Kid (1921)",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "gross": 5.45
+    },
+    {
+        "title": "Green Book (2018)",
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "gross": 85.08
+    }
+]
