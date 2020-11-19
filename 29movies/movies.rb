@@ -15,8 +15,8 @@ class Movies
   end
 
   def find(id)
-    movie = all.select { |movie| movie["id"] == id }
-    movie.size.zero? ? nil : movie[0]
+    movie_find = all.select { |movie| movie["id"] == id }
+    movie_find.size.zero? ? nil : movie_find[0]
   end
 
   def create(movie)
@@ -25,20 +25,15 @@ class Movies
   end
 
   def update(id, new_data)
-    # Updating the data
-    new_movie = (all.select { |movie| movie["id"] == id })[0]
-    new_movie.delete(new_data.keys[0])
-    new_movie = new_movie.to_a.push(new_data.to_a[0]).to_h
-    # Delete the old version movie
-    movies = all.select { |movie| movie["id"] != id }
+    new_movie = update_movie_data(id, new_data)
+    movies = all.reject { |movie| movie["id"] == id }
     movies.push(new_movie)
-    # Push the new movie into the json
     export_json(movies, @storefile)
     new_movie
   end
 
   def delete(id)
-    movies = all.select { |movie| movie["id"] != id }
+    movies = all.reject { |movie| movie["id"] == id }
     export_json(movies, @storefile)
   end
 
@@ -52,10 +47,16 @@ class Movies
 
   private
 
+  def update_movie_data(id, new_data)
+    new_movie = (all.select { |movie| movie["id"] == id })[0]
+    new_movie.delete(new_data.keys[0])
+    new_movie.to_a.push(new_data.to_a[0]).to_h
+  end
+
   def next_id
     @i ||= 0
     @i += 1
-  end 
+  end
 
   def csv_to_hash(filename)
     csv_parse = []
